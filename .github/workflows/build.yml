@@ -1,5 +1,5 @@
 name: Bitcoin order App
-on:  ff
+on:
   push:
     branches:
       - githubcicd
